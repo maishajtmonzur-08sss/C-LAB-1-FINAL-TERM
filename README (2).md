@@ -1,4 +1,4 @@
-# [Your Name] — Login & Registration System (SQL Server)
+Maisha - Login & Registration System (SQL Server)
 
 ## What the application does
 
@@ -64,6 +64,3 @@ logout. The fixed version opens a new `frmLogin` and closes the dashboard,
 so the user actually lands back on the login screen and can log in again
 without restarting the app.
 
-## Screenshots
-
-_(add a screenshot of the login screen and the dashboard here)_
